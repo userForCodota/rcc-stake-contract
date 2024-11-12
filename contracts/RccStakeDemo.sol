@@ -73,7 +73,7 @@ AccessControlUpgradeable
         UnstakeRequest[] requests;
     }
 
-    // ************************************** STATE VARIABLES ************************************** 状态变量
+    // ************************************** STATE VARIABLES ************************ ************** 状态变量
     // First block that RCCStake will start from // RCCStake 开始的第一个区块
     uint256 public startBlock;
     // First block that RCCStake will end from // RCCStake 结束的第一个区块
